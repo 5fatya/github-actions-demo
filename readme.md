@@ -1,4 +1,5 @@
-# Github Actions Tutorial
+# Github Actions 
+This repository is adapted from Tom Shaw, used for learning purposes to understand GitHub Actions and CI/CD workflows. 
 
 ## Introduction
 Github Actions is a CI/CD tool that allows you to automate your workflow. It is a powerful tool that can be used to build, test, package, release, and deploy your code. In this tutorial, we will learn how to create a Github Actions workflow.
